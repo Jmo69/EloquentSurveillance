@@ -1,12 +1,12 @@
 // turn on debug messages
 #define VERBOSE
-#include "EloquentSurveillance.h"
+#include "EloquentSurveillance."
 
 /**
  * Replace with your WiFi credentials
  */
-#define WIFI_SSID "Abc"
-#define WIFI_PASS "12345678"
+#define WIFI_SSID "AndroidAP7247"
+#define WIFI_PASS "hdtv716#"
 
 
 /**
